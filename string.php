@@ -30,5 +30,5 @@
 		echo  $string1."". $string2
 		?>
 	 <br><a href="index.php">back</a>
-						</body>
+	</body>
 </html>
