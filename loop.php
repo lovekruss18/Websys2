@@ -38,6 +38,7 @@
 		}while($i<10);
 		echo "loop stopped  at i = $i";
 ?>
+	 <br><a href="index.php">back</a>
 
 
 
