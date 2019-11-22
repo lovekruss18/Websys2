@@ -18,5 +18,6 @@
    Password: <input type="password" name="pass"/>
    <input type="submit" value="Submit">
    </form>
+	 <br><a href="index.php">back</a>
 </body>
 </html>
