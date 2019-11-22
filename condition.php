@@ -7,7 +7,7 @@
 <?php
 
 
-			&a = 5;
+			$a = 5;
 			if($a < 10){
 				echo "$a is less than 10";
 
@@ -34,8 +34,9 @@
 							break;
 					
 					default:
-						echo " not in the list"
+						echo " not in the list";
 						break;
+						 
 				}
 ?>
 
